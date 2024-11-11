@@ -84,3 +84,6 @@ body {
 .card p {
     color: #666;
 }
+.removed {
+    display: none;
+}
